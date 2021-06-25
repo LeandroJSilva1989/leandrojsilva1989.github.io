@@ -1,6 +1,10 @@
 #box {
     background-color: #62C370;
     width: 630px;
-    height: 184px;
     box-shadow: 10px 10px 0 black;
+    padding: 42px 0;
+}
+
+#box h1 {
+    margin-bottom: 28px;
 }
