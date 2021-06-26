@@ -6,3 +6,8 @@
     margin-right: 0;
     transition: transform 100ms linear;
 }
+
+
+#button:hover {
+    transform: scale(1.08);  
+}

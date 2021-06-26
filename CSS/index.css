@@ -33,9 +33,3 @@ a::before {
     height: 10px;
     margin-right: 10px;
 }
-
-
-
-#button:hover {
-    transform: scale(1.08);  
-}
