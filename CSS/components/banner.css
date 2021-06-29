@@ -2,6 +2,6 @@
     background-image: url(../../assets/img/photo.png);
     height: 800px;
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: auto;
     border-bottom: 10px solid #000;
 }
