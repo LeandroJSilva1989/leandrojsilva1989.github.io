@@ -9,4 +9,5 @@ body, h1, h2, #box {
 button {
     border: none;
     font-family: inherit;
+    color: #fff;
 }
