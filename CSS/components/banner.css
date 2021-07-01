@@ -6,3 +6,10 @@
     border-bottom: 10px solid #000;
     background-position: right;
 }
+
+.banner .wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 630px;
+}
+
