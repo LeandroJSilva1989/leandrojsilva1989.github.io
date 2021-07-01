@@ -16,11 +16,10 @@
 .banner .box {
     margin-bottom: 24px;
     margin-top: 214px;
-    margin-left: 77px;
-    display: flex;
-    justify-content: space-around;
+    -left: 77px;
 }
 
 .banner .navigation {
-   
+    display: flex;
+    justify-content: space-around;
 }
