@@ -1,5 +1,5 @@
 .banner {
-    box-shadow: content-box;
+    box-shadow: border-box;
     background-image: url(../../assets/img/photo.png);
     height: 800px;
     background-repeat: no-repeat;
