@@ -12,7 +12,7 @@
 .banner .wrapper {
     display: flex;
     flex-direction: column;
-    width: -moz-max-content;
+    width: auto;
 }
 
 .banner .box {
