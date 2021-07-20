@@ -3,10 +3,10 @@
     background-color: #fff;
     border: 5px #000;
     height: 40px;
-    Top left radius: 100px;
-    Top right radius: 100px;
-    Bottom right radius: 100px;
-    Bottom left radius: 100px;
+    top left radius: 100px;
+    top right radius: 100px;
+    bottom right radius: 100px;
+    bottom left radius: 100px;
 }
 
 .progress-bar::-webkit-progress-bar
