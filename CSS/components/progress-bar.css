@@ -3,15 +3,12 @@
     background-color: #fff;
     border: 5px solid #000;
     height: 40px;
-    /**border-radius: 100 100 100 100;**/
+    border-radius: 100 100 100 100;
 }
 
 .progress-bar::-webkit-progress-bar,
 .progress-bar::-moz-progress-bar {
     box-sizing: border-box;
     background-color: #828282;
-    border-top-right-radius: 100px;
-    border-bottom-right-radius: 100px;
-    border-top-left-radius: 100px;
-    border-bottom-left-radius: 100px;
+   border-radius: 100 100 100 100;
 }
