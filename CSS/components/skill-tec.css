@@ -8,6 +8,7 @@
 
 .skill-tec .icon {
     margin-right: 25px;
+    justify-content: space-around;
 }
 
 .skill-tec .right {
