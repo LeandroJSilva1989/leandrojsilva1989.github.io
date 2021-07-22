@@ -8,6 +8,7 @@
 
 .wrapper-skill .skill-tec {
     width: 430px;
+    margin-bottom: 40px;
 }
 
 .wrapper-skill .skill-tec:nth-child(odd) {
@@ -17,4 +18,3 @@
 .wrapper-skill .progress-bar {
     width: 320px;
 }
-
