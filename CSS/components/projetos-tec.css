@@ -1,3 +1,11 @@
+.projetos-tec {
+    display: flex;
+    align-items: center;
+    font-family: 'Press Start 2P', sans-serif;
+    font-size: 25px;
+    color: #FFF;
+}
+
 .projetos-tec .icon {
     margin-right: 25px;
     height: auto;
