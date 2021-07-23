@@ -2,5 +2,9 @@
     padding-top: 50px;
     padding-bottom: 100px;
     border-bottom: 10px solid #828282;
-    background-color: #000000;
+    background-color: #BA1F33;
+}
+
+.section-second .main-title-second {
+    margin-bottom: 60px;
 }
