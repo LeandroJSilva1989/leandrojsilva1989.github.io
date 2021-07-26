@@ -1,6 +1,8 @@
 .card-project {
     display: flex;
     align-items: center;
+    justify-content: center;
+    box-shadow: #FFF;
     font-family: 'Press Start 2P', sans-serif;
     font-size: 25px;
     color: #FFF;
