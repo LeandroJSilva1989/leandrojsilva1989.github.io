@@ -1,4 +1,4 @@
-.projetos-tec {
+.card-project {
     display: flex;
     align-items: center;
     font-family: 'Press Start 2P', sans-serif;
@@ -6,7 +6,7 @@
     color: #FFF;
 }
 
-.projetos-tec .icon {
+.card-project .logo {
     margin-right: 25px;
     height: auto;
     width: auto;
