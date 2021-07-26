@@ -1,10 +1,13 @@
 .card-project {
     display: flex;
-    background-color: #7C5E99;
-    width: 280px;
-    height: 280px;
     align-items: center;
     font-family: 'Press Start 2P', sans-serif;
     font-size: 25px;
     color: #FFF;
+}
+
+.card-project .logo {
+    background-color: #7C5E99;
+    width: 280px;
+    height: 280px;
 }
