@@ -2,7 +2,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    box-shadow: #FFF;
+    box-shadow: 10px 10px 10px #FFF;
     width: 280px;
     height: 280px;
     
