@@ -1,4 +1,4 @@
-.banner {
+.main-banner {
     box-sizing: border-box;
     background-image: url(../../assets/img/photo.png);
     height: 800px;
@@ -9,18 +9,18 @@
     background-color: #252E7E;
 }
 
-.banner .wrapper {
+.main-banner .wrapper {
     display: inline-flex;
     flex-direction: column; 
 }
 
-.banner .box {
+.main-banner .box {
     margin-top: 214px;
     margin-left: 77px;
     margin-bottom: 24px;
 }
 
-.banner .navigation {
+.main-banner .navigation {
     display: inline-flex;
     justify-content: space-around;
     margin-left: 77px;
