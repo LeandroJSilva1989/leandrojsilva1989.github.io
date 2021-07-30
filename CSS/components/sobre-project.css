@@ -1,17 +1,9 @@
-.sobre-project {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-color: #7C5E99;
-} 
-
 .sobre-project.-blue {
     background-color: #4C5B84;
 
 }
 
 .sobre-project .logo-car {
-    width: inherit;
     width: 280px;
     height: 280px;
 }
