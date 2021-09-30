@@ -12,3 +12,7 @@
 .main-section.-bgblack {
     background-color: black;
 }
+
+.main-section.-sobre {
+    border-bottom: black;
+}
