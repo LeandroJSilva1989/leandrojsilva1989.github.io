@@ -7,5 +7,5 @@
 }
 
 .button-arrow::before {
-    content: 'AAA'; 
+    content: '>'; 
 }
