@@ -6,6 +6,10 @@
     cursor: pointer;
 }
 
+.button-arrow .content {
+    display: none;
+}
+
 .button-arrow::before {
     content: '';
     display: block;
@@ -14,4 +18,5 @@
     height: 15px;
     border: 15px solid transparent;
     border-left: 28px solid white;
+    transform: translateX(5px);
 }
