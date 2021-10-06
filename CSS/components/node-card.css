@@ -36,3 +36,7 @@
     background-color: #ceb02a;
 
 }
+
+.node-card.-clean .logo {
+    padding: 0;
+}
