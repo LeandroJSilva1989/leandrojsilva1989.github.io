@@ -6,6 +6,17 @@
     padding-right: 85px;
 }
 
+.main-carousel::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 38px;
+    display: block;
+    height: 5px;
+    width: 100%;
+    background-color: #000;
+}
+
 .main-carousel .button-arrow {
     position: absolute;
     bottom: 70px;
