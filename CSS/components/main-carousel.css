@@ -9,11 +9,11 @@
 .main-carousel::after {
     content: '';
     position: absolute;
-    left: 40px;
-    top: 28px;
+    left: 50px;
+    top: 29px;
     display: block;
-    height: 5px;
-    width: calc(100% - 80px);
+    height: 4px;
+    width: calc(100% - 100px);
     background-color: #000;
 }
 
@@ -21,9 +21,10 @@
     content: '';
     position: absolute;
     left: 0;
-    top: 38px;
+    top: 29px;
     display: block;
-    border: 3px dashed #000;
+    border: 2px dashed #000;
+    width: 100%;
 }
 
 .main-carousel .button-arrow {
