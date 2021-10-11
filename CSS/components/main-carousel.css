@@ -4,10 +4,12 @@
     position: relative;
     padding-left: 85px;
     padding-right: 85px;
+
 }
 
 .main-carousel::after {
     content: '';
+
     position: absolute;
     left: 50px;
     top: 29px;
@@ -20,6 +22,7 @@
 .main-carousel::before {
     content: '';
     position: absolute;
+    box-sizing: border-box;
     left: 0;
     top: 29px;
     display: block;
@@ -42,8 +45,12 @@
 }
 
 .main-carousel .items {
+    width: 100%;
+    overflow: hidden;
+}
+
+.main-carousel .elements {
     display: flex;
     justify-content: space-between;
-    width: 100%;
-    transform: translateX();
-}
+    transform: translateX(400px);
+} 
