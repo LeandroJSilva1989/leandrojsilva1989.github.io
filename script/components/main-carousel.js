@@ -7,11 +7,13 @@
 // 6 Pegar o HTML todo
 // 7 Pegar o elements
 // 8 Mover o elements para direita
+
+// 9
  
- const btnRight = window.document.querySelector(".button-arrow.-right");
+ const btnRight = window.sdocument.querySelector(".button-arrow.-right");
  const elements = window.document.querySelector(".elements");
 
  btnRight.addEventListener("click", function( ) {
-
+    elements.style = "transform: translateX(100px";
  });
 
