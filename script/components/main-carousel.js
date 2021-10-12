@@ -10,8 +10,9 @@
 
 // 9
  
- const btnRight = window.sdocument.querySelector(".button-arrow.-right");
+ const btnRight = window.document.querySelector(".button-arrow.-right");
  const elements = window.document.querySelector(".elements");
+
 
  btnRight.addEventListener("click", function( ) {
     elements.style = "transform: translateX(10px)";
