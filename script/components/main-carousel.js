@@ -14,6 +14,6 @@
  const elements = window.document.querySelector(".elements");
 
  btnRight.addEventListener("click", function( ) {
-    elements.style = "transform: translateX(100px)";
+    elements.style = "transform: translateX(10px)";
  });
 
