@@ -12,9 +12,10 @@
  
  const btnRight = window.document.querySelector(".button-arrow.-right");
  const elements = window.document.querySelector(".elements");
-
+ let pixels = 10;
 
  btnRight.addEventListener("click", function( ) {
-    elements.style = "transform: translateX(10px)";
+    pixels += 10;
+    elements.style = `transform: translateX(${pixels}px)`;
  });
 
