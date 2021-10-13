@@ -15,7 +15,7 @@
  let pixels = 10;
 
  btnRight.addEventListener("click", function( ) {
-    pixels += 10;
+    pixels =+ 10;
     elements.style = `transform: translateX(${pixels}px)`;
  });
 
