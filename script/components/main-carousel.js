@@ -15,7 +15,7 @@
  const elements = window.document.querySelector(".elements");
  let pixels = 100;
 
- btnRight.addEventListener("click", function( ) {
+ btnRight.addEventListener("click", function() {
     pixels =+ 100;
     elements.style = `transform: translateX(${pixels}px)`;
  });
