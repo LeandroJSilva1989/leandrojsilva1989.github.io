@@ -23,5 +23,5 @@
  btnLeft.addEventListener("click", function() {
          pixels = pixels - 100;
          elements.style = `transform: translateX(${pixels}px)`;
-     });
+});
 
