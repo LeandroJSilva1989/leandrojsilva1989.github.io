@@ -16,3 +16,7 @@
 .main-section.-sobre {
     border-bottom: 10px solid black;  
 }
+
+.main-section.-rodape {
+    background-color: black;
+}
