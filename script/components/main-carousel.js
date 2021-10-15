@@ -16,12 +16,12 @@
  let pixels = 100;
 
  btnRight.addEventListener("click", function() {
-    pixels = pixels + 100;
-    elements.style = `transform: translateX(${pixels}px)`;
+   pixels = pixels + 100;
+   elements.style = `transform: translateX(${pixels}px)`;
  });
 
  btnLeft.addEventListener("click", function() {
-         pixels = pixels - 100;
-         elements.style = `transform: translateX(${pixels}px)`;
+   pixels = pixels - 100;
+   elements.style = `transform: translateX(${pixels}px)`;
 });
 
