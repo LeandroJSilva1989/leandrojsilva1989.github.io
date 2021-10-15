@@ -5,9 +5,3 @@ body {
 body, h1, h2, h3, h4, #box, figure {
     margin: 0;
 }
-
-button {
-    border: none;
-    font-family: inherit;
-    color: #fff;
-}
