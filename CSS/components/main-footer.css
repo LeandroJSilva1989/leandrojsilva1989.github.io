@@ -3,6 +3,8 @@
     display: flex;
     justify-content: center;
     gap: 20px;
+    padding-top: 28px;
+    padding-bottom: 28px;
 }
 .main-footer .logo-git {
     display: flex;
