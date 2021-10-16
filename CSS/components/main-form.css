@@ -7,6 +7,6 @@
     margin-bottom: 20px;
 }
 
-.main-form .main-input:last-of-type {
+.main-form .main-input.-texarea {
     margin-bottom: 40px;
 }
