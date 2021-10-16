@@ -2,3 +2,11 @@
     padding-left:  40px;
     padding-right: 40px;
 }
+
+.main-form .main-input {
+    margin-bottom: 20px;
+}
+
+.main-form .main-input:last-of-type {
+    margin-bottom: 40px;
+}
