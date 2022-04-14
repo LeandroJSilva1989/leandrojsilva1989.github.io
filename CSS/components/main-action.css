@@ -8,10 +8,13 @@
     margin-right: 30px;
 } 
 
-.main-action::before {
+.main-action::after {
     content: "";
     background-color: #62C370;
     width: 10px;
     height: 10px;
-    margin-right: 10px;
+    display: block;
+    position: absolute;
+    bottom: 216px;
+    display: block;
 }
