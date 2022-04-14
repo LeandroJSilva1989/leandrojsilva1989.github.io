@@ -18,3 +18,7 @@
     bottom: 216px;
     display: block;
 }
+
+.main-action a:hover::after {
+    width: 100%;
+}
